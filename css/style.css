@@ -1,0 +1,21 @@
+td{
+    padding: 2px;
+}
+.mobile{
+    display: none;
+}
+.birthday{
+    display: none;
+}
+.gender{
+    display: none;
+}
+.id{
+    display: none;
+}
+.faculty{
+    display: none;
+}
+.division{
+    display: none;
+}
